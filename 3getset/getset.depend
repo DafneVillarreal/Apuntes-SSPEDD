@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1648462180 source:c:\users\pocho\documents\edd\apuntes boites\getset\main.cpp
+	<iostream>
+	"pj.h"
+
+1648461907 c:\users\pocho\documents\edd\apuntes boites\getset\include\pj.h
+	<iostream>
+
+1648462022 source:c:\users\pocho\documents\edd\apuntes boites\getset\src\pj.cpp
+	"pj.h"
+
