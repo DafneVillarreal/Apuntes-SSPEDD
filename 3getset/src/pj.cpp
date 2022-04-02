@@ -12,10 +12,12 @@ GET siempre retornará <algo>
 
 PJ::PJ()
 {
-    /*nombre ="-";
-    tipo ="-";
-    fuerza ="0.0";
-    salud ="0";*/
+    /*
+    nombre = "-";
+    tipo = "-";
+    fuerza = 0.0;
+    salud = 0;
+    */
 }
 
 PJ::PJ(const string &nombre, const string &tipo, float fuerza, int salud)
