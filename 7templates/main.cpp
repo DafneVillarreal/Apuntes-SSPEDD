@@ -14,7 +14,7 @@ int main()
     arreglo <int> arre;
 
     for (size_t i = 0; i< 10; i++)
-        //<arre.size> nos indicara el tamaño del arreglo
+        //<arre.size> nos indicara el tamaÃ±o del arreglo
         //para no checar ni mas ni menos datos
     {
         arre.insertar_final(i);
