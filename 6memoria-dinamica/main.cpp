@@ -37,7 +37,7 @@ int main()
     */
 
     int *b = nullptr;
-    //declaracion de puntero vacío que almacenara un entero,
+    //declaracion de puntero vacÃ­o que almacenara un entero,
     //un puntero nulo o direccion 0 es una direccion invalida,
     //lo almacena y bloquea el SO por cuestiones de seguridad
 
