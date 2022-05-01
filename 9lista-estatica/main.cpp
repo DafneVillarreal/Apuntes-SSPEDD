@@ -39,7 +39,7 @@ int main()
     ListaEstatica <char> letras (50);
     //lista con parametro de 50 espacios
 
-    ListaEstatica <persona> pe;
+   //ListaEstatica <persona> pe;
 
     numeros.push_front(5);
     numeros.push_front (85);
@@ -56,9 +56,11 @@ int main()
          <<"numeros.front() : " <<numeros.front() <<endl
          <<"numeros.back() : " <<numeros.back() <<endl <<endl;
 
+    /*    
     cout <<"pe.empty() : " <<pe.empty () <<endl
          <<"pe.full() : " <<pe.full() <<endl
          <<"pe.size() : " <<pe.size() <<endl <<endl;
+    */
 
     for (size_t i (0); i < numeros.size(); ++i)
     {
