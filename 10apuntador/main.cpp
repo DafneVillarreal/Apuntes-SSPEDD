@@ -41,7 +41,7 @@ Stack o Pila:
 bloque de memoria o conjunto de direcciones de memoria asignados
 para un programa dado por el sistema operativo, aqui estaran
 variables, constantes, funciones, etc, incluso la recursividad
-que tiene llamados pendientes, se añaden al stack
+que tiene llamados pendientes, se aÃ±aden al stack
 
 
 Heap o "monticulo":
@@ -114,7 +114,7 @@ no podra utilizarla ni nosotros acceder a ella
 
 algunos lenguajes cuentan con recolector de basura, pero c++ no cuenta con el
 
-    ¿como evitarlo?
+    Â¿como evitarlo?
 Liberar los bloques de memoria para que el SO pueda reclamarlo
 y reasignarlo a otro programa
 
@@ -144,7 +144,7 @@ apuntador sigue conservando esa direccion de memoria
 ahora <p> se encuentra apuntando a una direccion de
 memoria inutil para nuestro programa
 
-    ¿solucion?
+    Â¿solucion?
 reasignarle una posicion de memoria al apuntador
 liberado, en caso de que no se vaya a utilizar mas
 le asignaremos un valor de 0
@@ -203,7 +203,7 @@ direccion de memoria
 
 < p > nos imprime una direccion de memoria ya que
 es un apuntador y ese es su contenido mientras que
-< *p > nos imprimiria 33 ya que estamos señalando el
+< *p > nos imprimiria 33 ya que estamos seÃ±alando el
 dato que se encuentra en la direccion de memoria a la
 cual apunta < *p >
 
